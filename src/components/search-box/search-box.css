@@ -1,0 +1,13 @@
+.search {
+  width: 400px;
+  background: #fff;
+  position: relative;
+  z-index: 1;
+  border-radius: 2rem;
+  padding: 10px 20px;
+  border: 0;
+  outline: 0;
+  margin-bottom: 4rem;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
